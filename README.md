@@ -13,3 +13,7 @@ Other way to try it
 
 
 /*another comment*/
+
+
+Third try \n new line # git3
+# git3-2
